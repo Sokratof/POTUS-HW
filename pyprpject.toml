@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "potus"
+version = "3.0"
+description = "bla-bla-bla"
+authors = ["esokratov <esokratov@astralinux.ru>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
